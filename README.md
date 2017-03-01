@@ -193,6 +193,6 @@ server {
 
 注：本文代码主要参考以下文章的分享，鄙人略作修改后的可用版本，感谢分享！
 > 参考链接：
-https://www.mxgw.info/t/phantomjs-prerender-for-seo.html
-http://imweb.io/topic/560b402ac2317a8c3e08621c
-https://icewing.cc/linux-install-phantomjs.html
+> https://www.mxgw.info/t/phantomjs-prerender-for-seo.html
+> http://imweb.io/topic/560b402ac2317a8c3e08621c
+> https://icewing.cc/linux-install-phantomjs.html
